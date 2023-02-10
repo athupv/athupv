@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**athupv/athupv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hey there 👋
+
+hi, i'm Athukrishnapv, a passionate self-taught fullstack developer and 
+a freelance developer from india. my passion for software lies with
+dreaming up ideas and making them come true with elegant interfaces.
+iam also an opensource enthusiast and maintanier.i learned lot from 
+the open-source community
+
+
+- 🔭 I’m currently focusing on full stack developing
+- 🌱 I’m currently learning
+- 👯 I’m looking to collaborate on projects
